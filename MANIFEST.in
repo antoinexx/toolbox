@@ -1,0 +1,3 @@
+graft final_package
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  final_package/jupy *
